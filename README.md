@@ -4,7 +4,7 @@ Please download weather.txt.
 
 Read the file.
 
-Write a program that picks the best day for a picnic, given the least amount of precipitation and a temperature range between 70 to 80 degrees fahrenheit. If there are more than one "best day" provide the answer as a list.
+Write a program that picks the best day for a picnic, given the least amount of precipitation and a temperature range between 70 to 85 degrees fahrenheit. If there are more than one "best day" provide the answer as a list.
 
 The answer format should be as follows, e.g.,
 
