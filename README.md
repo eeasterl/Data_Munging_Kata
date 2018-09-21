@@ -12,7 +12,7 @@ The answer format should be as follows, e.g.,
     Monday the 11th day of the month is the best day for a picnic.
 ```
 
-Afterwards, rewrite your program to take in N days as a parameter, and use the same criteria and answer format to pick the best vacation.
+Afterwards, rewrite your program to take in N days as a parameter, and use the same criteria and answer format to pick the best vacation. Have your program find the greatest number that N can be.
 
 # Submission
 
