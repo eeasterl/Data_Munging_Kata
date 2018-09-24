@@ -8,7 +8,7 @@ DayOfMonth DayOfWeek(first letter) High(celsius) Low(celsius) ChanceOfPrecipitat
 7			t 						27				21			01					
 8			w 						28				23		    20					
 9			t  					 	26				22			15					
-10			f   					27				20			00					
+10			f   					27				22			00					
 11			s 						29				22			09					
 12			s   					28				23			40					
 13			m 						30				25			20					
